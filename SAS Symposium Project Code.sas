@@ -46,7 +46,7 @@ A. From Variable order 1 -> 57 (Table B-1. Variable List)
 B. From Variable order 58 -> 121(in Table B-1. Variable List)
 1. Order 58-62: C0194 (binary), C0196 - C202 (4 ordinal variables) -> KEEP C0194; COMBINE C0196-C202 together (Parent_Participation)
 2. Order 63-70: C0204-C0218 (8 binary variables): indicate whether different community and outside groups involved in 
-                                                 school’s efforts to promote safe, disciplined, and drug-free schools
+                                                 schoolâ€™s efforts to promote safe, disciplined, and drug-free schools
    -> COMBINE into 1 variable (Community_Involvement)
 
 3. Order 71-89: C0610 - C0660 (26 variables) -> different aspects of sworn law enforcement officers
